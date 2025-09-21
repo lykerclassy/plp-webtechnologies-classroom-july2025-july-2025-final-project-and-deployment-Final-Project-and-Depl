@@ -1,90 +1,83 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+Brian Makini's Portfolio
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
+Welcome to my personal portfolio website! I'm Brian Makini, a passionate front-end developer and designer specializing in creating modern, responsive, and user-friendly websites. This project showcases my skills, projects, and services.
 
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
+📌 Table of Contents
 
----
+About Me
 
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
+Features
 
-Before you write any code, take time to plan:
+Technologies Used
 
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
+Project Structure
 
-**Goal:** Show intentional structure and user journey across the site.
+Live Demo
 
----
+Contact
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
+License
 
-Using your plan, begin building:
+👤 About Me
 
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
+I'm a front-end developer with a keen eye for design. I specialize in HTML5, CSS3, and JavaScript, focusing on building interactive and responsive web applications. When I'm not coding, I enjoy photography, traveling, and exploring new technologies.
 
-Each page should:
+✨ Features
 
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
+Responsive Design: Optimized for both desktop and mobile devices.
 
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
+Interactive Elements: Includes dynamic features like form validation and smooth scrolling.
 
----
+Modern UI: Clean and user-friendly interface with hover effects and animations.
 
-## 🛠️🚀 Part 3: Best Practices for Code Organization
+Project Showcase: Displays featured projects with images and descriptions.
 
-Before deployment, refactor your project to follow production-friendly practices:
+Contact Form: Allows visitors to reach out directly through the website.
 
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
+🛠️ Technologies Used
 
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
+HTML5: Semantic markup for structure.
 
----
+CSS3: Styling and layout using Flexbox and Grid.
 
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
+JavaScript: Interactivity and DOM manipulation.
 
-Once your project is complete, choose a method to **host your site online**.
+GitHub Pages: Hosting the website.
 
-You can use:
+Visual Studio Code: Code editor.
 
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
+📁 Project Structure
+/project-root
+   /css
+      style.css
+   /js
+      main.js
+   /images
+      hero.jpg
+      project1.jpg
+      project2.jpg
+      project3.jpg
+   index.html
+   about.html
+   services.html
+   contact.html
+   README.md
 
-Deploy your project and confirm that:
+🌐 Live Demo
 
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
+You can view the live portfolio here: https://lykerclassy.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
 
-**Goal:** Publish your work online and make it accessible to the world.
+📬 Contact
 
----
+Feel free to reach out via the contact form on the website or connect with me on:
 
-## Deliverables
+Twitter
 
-1. A GitHub repository containing:
+LinkedIn
 
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
+GitHub
 
----
+📄 License
 
-## Outcome
-
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
+This project is licensed under the MIT License - see the LICENSE
+ file for details.
